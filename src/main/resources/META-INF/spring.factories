@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration= /
+pers.gary.flowable.plus.config.FlowableAutoConfiguration

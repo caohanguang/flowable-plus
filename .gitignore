@@ -1,0 +1,32 @@
+# maven #
+target
+
+logs
+nodes
+
+# windows #
+Thumbs.db
+
+# Mac #
+.DS_Store
+
+# eclipse #
+.settings
+.project
+.classpath
+.log
+*.class
+
+# idea #
+.idea
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/target
+*.MF
+
+
+*.logback-dev.xml
